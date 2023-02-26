@@ -1,5 +1,5 @@
 import React from "react"
-import img1 from "../assets/photo-grid.png"
+import img1 from "../images/photo-grid.png"
 
 export default function Hero() {
     return (
