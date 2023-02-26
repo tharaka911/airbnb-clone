@@ -1,5 +1,5 @@
 import React from "react"
-import img1 from "/home/nawwa/Desktop/nawwadev2/react-scrimba/airbnb-clone/src/assets/photo-grid.png"
+import img1 from "../assets/airbnb-logo.png"
 
 export default function Hero() {
     return (

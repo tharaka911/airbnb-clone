@@ -1,5 +1,5 @@
 import React from "react"
-import logo from "/home/nawwa/Desktop/nawwadev2/react-scrimba/airbnb-clone/src/assets/airbnb-logo.png"
+import logo from "../assets/airbnb-logo.png"
 
 
 export default function Navbar() {
